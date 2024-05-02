@@ -7,7 +7,9 @@ Este é um projeto que utiliza o Puppeteer para automatizar a tarefa de um conve
 ### O que Puppeteer?
 
 <details>
-Puppeteer é uma biblioteca Node.js que fornece uma API de alto nível para controlar o Chrome ou o Chromium através do protocolo DevTools. Ele é frequentemente utilizado para automatizar tarefas de navegação na web.
+Puppeteer é uma biblioteca Node.js que fornece uma API de alto nível para controlar o Chrome ou o Chromium através do protocolo DevTools. Ele é frequentemente utilizado para automatizar tarefas de navegação na web.  
+
+[Documentação Oficial](https://pptr.dev/)
 </details>
 
 *Se desejar rodar o projeto em sua máquina siga o passo a passo abaixo.*
